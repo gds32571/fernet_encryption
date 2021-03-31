@@ -1,4 +1,14 @@
+# Fernet encryption test programs
+
 Two programs to test Python "Fernet" encryption.
-The first uses all of the Python statements in a raw manner.  The second uses Jake Krajewski's class file.
+
+## 
+
+   prog1.py uses the class file to simplify all of the Python statements.
+
+##
+
+   prog2.py uses Jake Krajewski's class file FernetCypher.py.
+   
 
   
